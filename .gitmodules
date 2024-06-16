@@ -1,0 +1,36 @@
+[submodule "asciiship"]
+	path = asciiship
+	url = https://github.com/zimfw/asciiship.git
+[submodule "completion"]
+	path = completion
+	url = https://github.com/zimfw/completion.git
+[submodule "duration-info"]
+	path = duration-info
+	url = https://github.com/zimfw/duration-info.git
+[submodule "environment"]
+	path = environment
+	url = https://github.com/zimfw/environment.git
+[submodule "git"]
+	path = git
+	url = https://github.com/zimfw/git.git
+[submodule "git-info"]
+	path = git-info
+	url = https://github.com/zimfw/git-info.git
+[submodule "input"]
+	path = input
+	url = https://github.com/zimfw/input.git
+[submodule "termtitle"]
+	path = termtitle
+	url = https://github.com/zimfw/termtitle.git
+[submodule "utility"]
+	path = utility
+	url = https://github.com/zimfw/utility.git
+[submodule "zsh-autosuggestions"]
+	path = zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
+[submodule "zsh-completions"]
+	path = zsh-completions
+	url = https://github.com/zsh-users/zsh-completions.git
+[submodule "zsh-history-substring-search"]
+	path = zsh-history-substring-search
+	url = https://github.com/zsh-users/zsh-history-substring-search.git
